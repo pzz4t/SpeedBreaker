@@ -16,7 +16,7 @@ Type (E) to exit the program.""")
     bas_yon = input("")
     if bas_yon == "a":
         Positioning()
-    elif bas_yon == "B":
+    elif bas_yon == "A":
         Positioning()
     elif bas_yon == "E":
         exit(0)
